@@ -12,5 +12,5 @@ Pasos para ejecutar proyecto:
 2. Tomar la carpeta ```dist``` y desplegarla
 
 
-# Proyecto dentro del curso de JavaScript
+# Proyecto dentro del curso de JavaScript proyecto final
 
